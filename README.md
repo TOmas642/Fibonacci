@@ -1,2 +1,0 @@
-# Fibonacci
-Created with CodeSandbox
